@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Front-end<br>👯 I’m looking to collaborate on Front-end projects<br>🤝 I’m looking for help with Open Source<br>🌱 I’m currently learning Node js and Microsoft Dynamics<br>💬 Ask me about React js, Vue js, javascript, Chrome Extensions, and more.
+🔭 I’m currently working on Front-end<br>👯 I’m looking to collaborate on Front-end projects<br>🤝 I’m looking for help with Open Source<br>🌱 I’m currently learning Node js and Microsoft Dynamics<br>💬 Ask me about React js, Next Js, Vue js, javascript, Chrome Extensions, and more.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Muhammad.Bilal.760/) 
