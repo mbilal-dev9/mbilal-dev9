@@ -15,7 +15,7 @@
 ![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-red?logo=Ruby&logoColor=white&style=for-the-badge)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mbilal-dev9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)<br/>
+![](![mbilal-dev9's Stats](https://github-readme-stats.vercel.app/api?username=mbilal-dev9&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mbilal-dev9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
