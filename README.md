@@ -16,7 +16,6 @@
 
 # 📊 GitHub Stats:
 ![mbilal-dev9's Stats](https://github-readme-stats.vercel.app/api?username=mbilal-dev9&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mbilal-dev9&layout=compact&theme=dracula)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mbilal-dev9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
